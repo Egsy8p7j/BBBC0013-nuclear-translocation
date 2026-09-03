@@ -1,0 +1,15 @@
+# Raw data
+data/*
+
+# Keep data folder README
+!data/README.md
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
